@@ -34,5 +34,7 @@ streamlit run app.py
  ![Dashboard](POWERBI/dashboard_preview.png)
 
 
+![python code](AITOOL/output.png)
+
 ## Author
 Pankaj Juyal
