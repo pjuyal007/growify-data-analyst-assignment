@@ -30,7 +30,9 @@ Raw CSV → Python (Data Cleaning) → SQL Database → Power BI Dashboard + AI 
 cd ai_tool  
 pip install -r requirements.txt  
 streamlit run app.py
-
+ ## outputs
+ !Dashboard(POWERBI
+/Growify_Dashboard.pdf)
 
 
 ## Author
