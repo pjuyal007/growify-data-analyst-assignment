@@ -32,7 +32,7 @@ pip install -r requirements.txt
 streamlit run app.py
  ## outputs
  !Dashboard(POWERBI
-/Growify_Dashboard.pdf)
+/dashboard_preview.png)
 
 
 ## Author
