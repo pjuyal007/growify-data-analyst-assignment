@@ -31,8 +31,7 @@ cd ai_tool
 pip install -r requirements.txt  
 streamlit run app.py
  ## outputs
- !Dashboard(POWERBI
-/dashboard_preview.png)
+ ![Dashboard](POWERBI/dashboard_preview.png)
 
 
 ## Author
