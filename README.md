@@ -31,5 +31,10 @@ cd ai_tool
 pip install -r requirements.txt  
 streamlit run app.py
 
+ ## Dashboard preview
+ growify-data-analyst-assignment/POWERBI
+/Growify_Dashboard.pdf
+
+
 ## Author
 Pankaj Juyal
